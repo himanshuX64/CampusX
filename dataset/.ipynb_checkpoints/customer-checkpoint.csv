@@ -1,0 +1,11 @@
+review,age,gender,education,purchased
+Average,16,F,Undergrad,Yes
+Good,21,M,Grad,No
+Good,23,M,Grad,No
+Poor,30,F,PhD,No
+Best,19,F,Undergrad,Yes
+Poor,22,M,PhD,Yes
+Average,25,M,Grad,No
+Best,18,F,Undergrad,Yes
+Average,20,F,PhD,Yes
+Best,24,M,Grad,No
