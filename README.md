@@ -3,9 +3,11 @@
 Welcome to my Machine Learning Journey — a hands-on exploration of ML concepts, algorithms, and practical implementations. This repository documents my learning path from fundamentals to real-world applications.
 
 ##  🚀 What You’ll Find
+
 - 📚 Step-by-step Jupyter notebooks with clean explanations
 
 - 🧩 Implementations of core ML algorithms from scratch
+
 - 🔍 Projects based on real datasets
 - 📊 Visualizations for better understanding
 
@@ -19,8 +21,10 @@ Welcome to my Machine Learning Journey — a hands-on exploration of ML concepts
 - Neural Networks (Basics)
 
 ## ⚙️ Tools & Libraries
+
 - Python 🐍
 - NumPy | Pandas | Matplotlib | Scikit-Learn
 - Tensorflow | Pytorch
 # 🏗️ Goal
+
 - To build a solid foundation in Machine Learning by understanding theory, implementing algorithms manually, and applying them to real-world problems.
